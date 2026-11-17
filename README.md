@@ -11,15 +11,15 @@
 | 应用 | 说明 | 技术栈 | 最新版本 | 最近更新 |
 |---|---|---|---|---|
 | **[`android-adskip`](https://github.com/Simiely/android-adskip)** | 跳过广告工具：无障碍服务 + 悬浮窗手动捕获 + GitHub 规则云同步（澎湃 OS 3 可用） | Kotlin | [`v1.1`](https://github.com/Simiely/android-adskip/releases/latest) | 2026-09-11 |
-| **[`DarkMask`](https://github.com/Simiely/DarkMask)** 🔗[页面](https://simiely.github.io/DarkMask/) | 深色蒙版 · 适配澎湃 OS3 的全屏降亮护眼工具 | Kotlin | [`v1.1`](https://github.com/Simiely/DarkMask/releases/latest) | 2026-08-03 |
-| **[`meituan-bike-reminder`](https://github.com/Simiely/meituan-bike-reminder)** 🔗[页面](https://simiely.github.io/meituan-bike-reminder/) | 美团骑车锁车提醒软件 | HTML | [`v2.7.1`](https://github.com/Simiely/meituan-bike-reminder/releases/latest) | 2026-08-03 |
+| **[`DarkMask`](https://github.com/Simiely/DarkMask)** | 深色蒙版 · 适配澎湃 OS3 的全屏降亮护眼工具 | Kotlin | [`v1.1`](https://github.com/Simiely/DarkMask/releases/latest) | 2026-08-03 |
+| **[`meituan-bike-reminder`](https://github.com/Simiely/meituan-bike-reminder)** | 美团骑车锁车提醒软件 | HTML | [`v2.7.1`](https://github.com/Simiely/meituan-bike-reminder/releases/latest) | 2026-08-03 |
 | **[`tv-film-player`](https://github.com/Simiely/tv-film-player)** | 小米 ES65 订阅驱动 Android TV 影视播放器（Leanback + Media3 ExoPlayer） | Kotlin | [`v0.1.2`](https://github.com/Simiely/tv-film-player/releases/latest) | 2026-08-06 |
 
 ### 💬 微信小程序
 
 | 应用 | 说明 | 最近更新 |
 |---|---|---|
-| **[`potty-training-miniprogram`](https://github.com/Simiely/potty-training-miniprogram)** 🔗[页面](https://simiely.github.io/potty-training-miniprogram/) | 宝宝如厕训练助手 | 2026-08-03 |
+| **[`potty-training-miniprogram`](https://github.com/Simiely/potty-training-miniprogram)** | 宝宝如厕训练助手 | 2026-08-03 |
 | `collab-plan-miniprogram` 🔒 | 协作计划小程序（微信云开发 + 自建账号 + 时间戳增量同步 + 订阅提醒） | 2026-08-14 |
 
 ### 📱 手机 Web
