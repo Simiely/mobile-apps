@@ -19,7 +19,7 @@
 
 | 应用 | 说明 | 最近更新 |
 |---|---|---|
-| **[`potty-training-miniprogram`](https://github.com/Simiely/potty-training-miniprogram)** | 宝宝如厕训练助手 | 2026-08-03 |
+| ~~`potty-training-miniprogram`~~（已归档） | 宝宝如厕训练助手，仓库只读（本地开发副本不受影响） | 2026-11-19 |
 | `collab-plan-miniprogram` 🔒 | 协作计划小程序（微信云开发 + 自建账号 + 时间戳增量同步 + 订阅提醒） | 2026-08-14 |
 
 ### 📱 手机 Web
